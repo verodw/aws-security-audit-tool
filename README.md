@@ -11,7 +11,7 @@ This application offers a dual-mode architecture: a **Live Mode** for auditing r
 
 <img width="1470" height="799" alt="Detailed Analysis" src="https://github.com/user-attachments/assets/12313e1d-7d44-45ea-9ac0-29eaefa3054d" />
 
-## Key Features
+## Features
 
 * **Dual Audit Modes:**
     * **Demo Mode:** Uses `moto` library to mock AWS services (S3, EC2, IAM) for safe, cost-free testing.
