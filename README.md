@@ -4,8 +4,12 @@ An enterprise-grade **Cloud Security Posture Management (CSPM)** tool designed t
 
 This application offers a dual-mode architecture: a **Live Mode** for auditing real AWS environments and a **Demo Mode** (powered by `moto`) for risk-free simulations and portfolio demonstration.
 
-<img width="1470" height="799" alt="Screenshot 2025-12-18 at 16 59 08" src="https://github.com/user-attachments/assets/8b3122f2-b089-43f2-8072-3a1d74347753" />
-<img width="1470" height="799" alt="Screenshot 2025-12-18 at 17 00 19" src="https://github.com/user-attachments/assets/12313e1d-7d44-45ea-9ac0-29eaefa3054d" />
+<img width="1470" height="799" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/8b3122f2-b089-43f2-8072-3a1d74347753" />
+
+<br />
+<br />
+
+<img width="1470" height="799" alt="Detailed Analysis" src="https://github.com/user-attachments/assets/12313e1d-7d44-45ea-9ac0-29eaefa3054d" />
 
 ## Key Features
 
@@ -34,8 +38,7 @@ This application offers a dual-mode architecture: a **Live Mode** for auditing r
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/verodw/aws-security-audit-tool.git](https://github.com/verodw/aws-security-audit-tool.git)
-    cd aws-security-audit-tool
+    git clone https://github.com/verodw/aws-security-audit-tool.git
     ```
 
 2.  **Create a Virtual Environment (Recommended)**
